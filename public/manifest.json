@@ -1,0 +1,30 @@
+{
+  "background_color": "#fff",
+  "display": "standalone",
+  "homepage_url": "https://swap.country",
+  "providedBy": {
+    "name": "ElephantSwap",
+    "url": "https://swap.country"
+  },
+  "icons": [
+    {
+      "src": "./elephantcoin.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./elephantcoin.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "orientation": "portrait",
+  "name": "Elephant Swap V3",
+  "description": "Swap tokens and provide V2 or V3 liquidity on ElephantSwap for Harmony.",
+  "iconPath": "./elephantcoin.png",
+  "short_name": "ElephantSwap",
+  "start_url": ".",
+  "theme_color": "#167965"
+}
